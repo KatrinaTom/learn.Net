@@ -19,6 +19,16 @@ _________________________________
 
 ``dotnet run``
 
+## Learning Notes
+
+This project was made using MVC (Model View Controller) template and ASP.NET Core.
+
+Command to create the project:
+
+``dotnet new mvc -n YourMvcProjectName``
+
+
+
 _________________________________
 
 ## Packages
