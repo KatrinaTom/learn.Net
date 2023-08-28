@@ -27,6 +27,15 @@ Command to create the project:
 
 ``dotnet new mvc -n YourMvcProjectName``
 
+### CRUD Operations
+
+* Create a model in the framework that creates a table automatically. 
+
+* Connection String using SQL Server on Azure 
+
+! All the secrets go into appsettings.json
+
+* Nuget Packages Microsoft.EntityFrameworkCore
 
 
 _________________________________
@@ -34,6 +43,12 @@ _________________________________
 ## Packages
 
 * .NET Framework: .NET 7
+
+_________________________________
+
+## Resources
+
+https://www.microsoft.com/en-au/sql-server/sql-server-downloads?rtc=1
 
 _________________________________
 
